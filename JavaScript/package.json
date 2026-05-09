@@ -1,0 +1,40 @@
+{
+  "name": "@arcanum/spell-engine",
+  "version": "1.0.0",
+  "description": "Dynamic spell engine for games - symbol and voice-based spell casting with semantic similarity",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./core": "./src/core/engine.js",
+    "./audio": "./src/audio/index.js",
+    "./database": "./src/database/index.js",
+    "./examples": "./src/examples/index.js"
+  },
+  "scripts": {
+    "test": "node --test tests/**/*.test.js",
+    "docs": "node scripts/generateDocs.js"
+  },
+  "keywords": [
+    "spell-engine",
+    "game-engine",
+    "semantic-search",
+    "voice-recognition",
+    "embeddings",
+    "pvp",
+    "game-systems"
+  ],
+  "author": "Arcanum Vivum Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/arcanum-vivum"
+  },
+  "optionalDependencies": {
+    "firebase": "^10.0.0",
+    "@supabase/supabase-js": "^2.30.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}

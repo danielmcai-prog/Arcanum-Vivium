@@ -1,0 +1,14 @@
+{
+  "name": "ArcanumVivum.SpellEngine",
+  "rootNamespace": "ArcanumVivum.SpellEngine",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

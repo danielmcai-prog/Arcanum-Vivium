@@ -1,0 +1,10 @@
+{
+  "name": "com.arcanumvivum.spellengine",
+  "version": "1.0.0",
+  "displayName": "Arcanum Vivum Spell Engine",
+  "description": "Unity C# port of Arcanum Vivum spell engine: symbol + audio casting, embeddings, balancing, evolution, and pluggable databases.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Arcanum Vivum Contributors"
+  }
+}
