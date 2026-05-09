@@ -12,7 +12,6 @@ A pure JavaScript spell casting engine for games. Enables both **symbol-based** 
 - **Game balancing**: Mana costs, stability scoring, misfire probability, cooldowns
 - **Evolution engine**: Usage tracking, community consensus, mastery discounts, variant genealogy
 - **10 elements, 10 forces, 5 intents**: Full game mechanics system
-- **No React/UI**: Pure JavaScript library suitable for any game engine
 
 ## Installation
 
